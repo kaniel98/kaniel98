@@ -4,7 +4,7 @@ Hi 👋 My name is Kaniel
 Aspiring backend web developer
 ------------------------------
 
-Hi there! I am an aspiring software engineer highly interested in backend technologies such as Node.js and Nest.js. I recently started picking up Java and Springboot as part of my upcoming internship in May-August 2023
+Hi there! I am an aspiring software engineer highly interested in backend technologies. Currently I am working as a full-stack software engineer intern at Prudential Assurance Company Singapore
 
 * 🌍  I'm based in Singapore
 * ✉️  You can contact me at [kankoh98@gmail.com](mailto:kankoh98@gmail.com)
