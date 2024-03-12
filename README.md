@@ -4,8 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring backend web developer
 ------------------------------
 
-Hi there! I am an aspiring software engineer highly interested in backend technologies. Currently I am working as a full-stack software engineer intern at Prudential Assurance Company Singapore 🌍 I'm based in Singapore ⚡ I am currently studying as a Year 4 undergraduate at the Singapore Management University, pursuing a degree in Information Systems, expecting to graduate in May 2024
+Hi there! I am an aspiring software engineer highly interested in backend technologies. Currently I am working as a full-stack software engineer intern at Prudential Assurance Company Singapore 
 
+* 🌍 I'm based in Singapore 
+* ⚡ I am currently studying as a Year 4 undergraduate at the Singapore Management University, pursuing a degree in Information Systems, expecting to graduate in May 2024
 * 🖥️  See my portfolio at [kanielkoh.netlify.app](http://kanielkoh.netlify.app/)
 * ✉️  You can contact me at [kankoh98@gmail.com](mailto:kankoh98@gmail.com)
 
