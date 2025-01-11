@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring backend web developer
 ------------------------------
 
-Hi there! I am an aspiring software engineer highly interested in backend technologies. Currently, I am working as a software engineer at Prudential Assurance Company Singapore 
+Hi there! I am an aspiring software engineer highly interested in backend technologies. Currently, I am working as a software engineer at OKX.
 
 * 🌍 I'm based in Singapore 
 * ⚡ I graduated from the Singapore Management University in August 2024 with a Bachelor's of Science (Information Systems), Magna Cum Laude
